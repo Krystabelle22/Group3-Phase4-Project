@@ -4,13 +4,13 @@
 
 ## Using Deep Learning and Machine Learning Algorithms for Drone Vs Bird Detection to Improve Aerial Object Identification and Enhance Security and Surveillance
 
-### Business Understanding
+## Business Understanding
 
-### Data Understanding
+## Data Understanding
 
-### Key Objectives
+## Key Objectives
 
-### Links
+## Links
 
 Dataset: [Link to the Kaggle dataset](https://www.kaggle.com/datasets/stealthknight/bird-vs-drone?resource=download)
 
